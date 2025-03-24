@@ -2,6 +2,8 @@
 
 This API checks whether a domain is flagged as "nawala" (blocked) or "internet positive" according to Komdigi/Kominfo guidelines.
 
+![Internet Positive](https://www.ha-fizh.com/wp-content/uploads/2019/10/ipo-chan-4.jpg)
+
 ## Features
 
 - **Domain Verification**: Checks if a domain is accessible or blocked.
