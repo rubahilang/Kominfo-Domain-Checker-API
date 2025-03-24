@@ -24,7 +24,7 @@ git clone https://github.com/rubahilang/Kominfo-Domain-Checker-API
 2. **Navigate to the Project Directory**
 
 ```sh
-cd repository
+cd Kominfo-Domain-Checker-API
 ```
 
 3. **Install Dependencies**
@@ -40,7 +40,7 @@ npm install
 Start the server with:
 
 ```sh
-npm start
+node server.js
 ```
 
 The server will be accessible at `http://localhost:3000`.
