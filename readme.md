@@ -70,3 +70,5 @@ Contributions, issues, and feature requests are welcome. Please fork the reposit
 ## Contact
 
 For further questions, please contact [rubahilang@gmail.com](mailto:rubahilang@gmail.com).
+
+**Made With 💖 by RubahIlang**
