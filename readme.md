@@ -10,7 +10,7 @@ This API checks whether a domain is flagged as "nawala" (blocked) or "internet p
 - **SSL Bypass**: Uses an HTTPS agent to bypass SSL certificate verification issues.
 - **Detailed Logging**: Provides comprehensive logging of HTTP statuses and redirection details.
 
-$${\color{red}\# WARNING!!}$$
+# WARNING!!
 ## This script does not use Trust Positive Database, this script will only work if you use an Indonesian ISP as your network to run this script.
 
 ## Installation
