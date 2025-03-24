@@ -13,7 +13,7 @@ This API checks whether a domain is flagged as "nawala" (blocked) or "internet p
 # WARNING!!
 ## This script does not use Trust Positive Database, this script will only work if you use an Indonesian ISP as your network to run this script.
 
-## Installation
+# Installation
 
 1. **Clone the Repository**
 
