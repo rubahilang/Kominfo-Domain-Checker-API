@@ -61,14 +61,10 @@ The server will be accessible at `http://localhost:3000`.
 
 _Note: This README provides an overview and usage instructions. The complete source code is available in the repository._
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contributing
 
 Contributions, issues, and feature requests are welcome. Please fork the repository and submit a pull request.
 
 ## Contact
 
-For further questions, please contact [email@example.com](mailto:email@example.com).
+For further questions, please contact [email@rubahilang@gmail.com](mailto:rubahilang@gmail.com).
